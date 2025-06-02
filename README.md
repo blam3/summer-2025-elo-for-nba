@@ -1,9 +1,8 @@
-# summer-2025-elo-for-nba
-Creating an Elo rating system using National Basketball Association (NBA) data as a part of the Erdos Institute's data science bootcamp.
-
-## NBA Elo Analysis
+# Erdos Institute Summer 2025 Project - NBA Elo Analysis
 
 Kwame Osei-Tutu, Brendan Lam, Daryl Reed
+
+Creating an Elo rating system using National Basketball Association (NBA) data as a part of the Erdos Institute's data science bootcamp.
 
 What we’re building
 We aim to analyze(and possibly improve upon) Elo ratings for NBA teams. Using 75 years of game logs plus nightly updates, we’ll replicate the classic Elo model, test modern tweaks (margin-of-victory scaling, time-decay, Glicko volatility, Bayesian uncertainty), and surface everything in a slick, shareable dashboard if possible.
