@@ -5,7 +5,7 @@ Kwame Osei-Tutu, Brendan Lam, Daryl Reed
 Creating an Elo rating system using National Basketball Association (NBA) data as a part of the Erdos Institute's data science bootcamp.
 
 ### What we’re building
-We aim to analyze(and possibly improve upon) Elo ratings for NBA teams. Using 75 years of game logs plus nightly updates, we’ll use the original Elo model, test modern tweaks (margin-of-victory scaling, time-decay, Glicko volatility, Bayesian uncertainty), and integrate our results into a shareable dashboard if possible.
+We aim to analyze (and possibly improve upon) Elo ratings for NBA teams. Using 75 years of game logs plus nightly updates, we’ll use the original Elo model, test modern tweaks (margin-of-victory scaling, time-decay, Glicko volatility, Bayesian uncertainty, Elo regression), and integrate our results into a shareable dashboard if possible.
 
 ### Opportunity and impact
 Data fire-hose: 130 K+ historical games, rich box-score detail, and a public API for fresh results every night.
